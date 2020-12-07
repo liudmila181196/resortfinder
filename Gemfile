@@ -10,6 +10,8 @@ end
 gem 'rails', '~> 5.1.4'
 
 gem 'pg' #, '~> 0.18'
+gem 'graphql'
+gem 'graphiql-rails'
 gem 'active_model_serializers'
 gem 'activerecord-reset-pk-sequence'
 # Use Puma as the app server
